@@ -1,1 +1,0 @@
-Hello! This is my markdown file for the github project! I used commands to clone the repo and then made my changes in VSCode. I then used GitHub desktop to push my changes back to the repo.
